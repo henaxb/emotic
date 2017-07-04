@@ -33,10 +33,9 @@ Annotations_trainset(1000).person(1)
             estimated_bbox: [289 43 428 246]
                 confidence: 0.9968
            num_annotrs_cat: 1
-           num_annotrs_con: 1
-
+           num_annotrs_con: 1
 ```
-### ADE20K
+### ADE20K
 ```
 Annotations_trainset(12900).person(1)
 
@@ -53,4 +52,24 @@ Annotations_trainset(12900).person(1)
             estimated_bbox: [382 375 515 871]
                 confidence: 0.9965
            num_annotrs_cat: 1
+           num_annotrs_con: 1
+```
+### FramesDB
+```
+Annotations_trainset(1).person(1) = 
+
+                 body_bbox: [121.6421 10.6952 648.2539 591.6340 0.9878]
+                 face_bbox: [295 77 384 203]
+                confidence: 0.9995
+         resized_face_bbox: [163 42 213 112]
+         resized_body_bbox: [67 5 360 328]
+         face_polygon_mask: '163,42 163,112 213,112 213,42'
+         body_polygon_mask: '67,5 67,328 360,328 360,5'
+    annotations_categories: [1x1 struct]
+    annotations_continuous: [1x1 struct]
+        annotations_gender: [1x1 struct]
+           annotations_age: [1x1 struct]
+           num_annotrs_cat: 1
            num_annotrs_con: 1
+
+```
