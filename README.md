@@ -33,8 +33,10 @@ Annotations(1).person(1) =
 Each bbox has the format `[x1 y1 x2 y2]` - the four co-ordinates of the bounding rectangle.   
 `estimated_*` filed represents the bboxes that were obtained after running body ([link](https://arxiv.org/abs/1506.01497)) and face R-CNN ([link](https://arxiv.org/abs/1606.03473)) based detectors on each person.   
 
-The confidence level with which the bboxes were estimated is given by 
-`Annotations(1).person(1).confidence = 0.9` 
+The confidence level with which the bboxes were estimated is given by   
+```
+Annotations(1).person(1).confidence = 0.9
+``` 
 
 The annotated categories (ground truth) of that person by a given worker is given by  
 ```
