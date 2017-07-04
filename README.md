@@ -38,7 +38,7 @@ The confidence level with which the bboxes were estimated is given by
 
 The annotated categories (ground truth) of that person by a given worker is given by  
 ```
-     Annotations(1).person(1).annotations_categories = 
+Annotations(1).person(1).annotations_categories = 
      
             worker_id: 'AHI8X7NP92DAV'
             work_time: 511
