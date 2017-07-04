@@ -1,5 +1,5 @@
 ### EMOTIC dataset Annotations' structure description:
-#### The entire annotations (or ground truth) is stored inside a matlab structure file Annotations_combined.mat
+#### The entire annotations (or ground truth) is stored inside a matlab structure file _Annotations_combined.mat_
 
 Each structure entry has all the information (including the annotation) about a single person under consideration.   
 
@@ -13,7 +13,7 @@ Each structure entry has all the information (including the annotation) about a 
              original_database: [1x1 struct]   
                         person: [1x2 struct]   
 
-The person field above [1x2 struct] shows that the image has 2 persons and the details about each is stored in this field.  
+The person field above `[1x2 struct]` shows that the image has 2 persons and the details about each is stored in this field.  
 For the first person, 
 ```
 Annotations(1).person(1) =
