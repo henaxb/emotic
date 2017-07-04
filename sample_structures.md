@@ -16,10 +16,10 @@ Annotations_trainset(1).person(1)
            num_annotrs_cat: 1
            num_annotrs_con: 1
 ```
-
--------------MSCOCO-------------
+### MSCOCO
+``` 
 Annotations_trainset(1000).person(1)
->>
+
                  body_bbox: [287 46 427 298]
                  head_bbox: 'NA'
          segmentation_mask: {[1x46 double]}
@@ -35,9 +35,11 @@ Annotations_trainset(1000).person(1)
            num_annotrs_cat: 1
            num_annotrs_con: 1
 
--------------ADE20K-------------
+```
+### ADE20K
+```
 Annotations_trainset(12900).person(1)
->>
+
                  body_bbox: [381 395 500 891]
                  head_bbox: [417 398 476 461]
          segmentation_mask: 'NA'
