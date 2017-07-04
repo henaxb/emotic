@@ -56,15 +56,15 @@ Annotations_trainset(12900).person(1)
 ```
 ### FramesDB
 ```
-Annotations_trainset(1).person(1) = 
+Annotations_trainset(15000).person(1) = 
 
-                 body_bbox: [121.6421 10.6952 648.2539 591.6340 0.9878]
-                 face_bbox: [295 77 384 203]
-                confidence: 0.9995
-         resized_face_bbox: [163 42 213 112]
-         resized_body_bbox: [67 5 360 328]
-         face_polygon_mask: '163,42 163,112 213,112 213,42'
-         body_polygon_mask: '67,5 67,328 360,328 360,5'
+                 body_bbox: [1.5049e+03 1.0680e+03 1.7844e+03 1.8199e+03 0.9985]
+                 face_bbox: [1644 1086 1690 1161]
+                confidence: 0.9857
+         resized_face_bbox: [225 148 231 159]
+         resized_body_bbox: [206 146 244 249]
+         face_polygon_mask: '225,148 225,159 231,159 231,148'
+         body_polygon_mask: '206,146 206,249 244,249 244,146'
     annotations_categories: [1x1 struct]
     annotations_continuous: [1x1 struct]
         annotations_gender: [1x1 struct]
