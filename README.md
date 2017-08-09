@@ -1,6 +1,5 @@
 ### EMOTIC Dataset (Structure description)
 #### All annotations (or ground truth) are stored as fields in _Annotations.mat_ (matlab structure file)
-
 Each structure entry has all the information (including the annotation) about every person under consideration.   
 
     Annotations(1) = 
@@ -13,7 +12,8 @@ Each structure entry has all the information (including the annotation) about ev
              original_database: [1x1 struct]   
                         person: [1x2 struct]   
 
-The person field above `[1x2 struct]` shows that the image has 2 persons and the details about each is stored in this field.  
+`original_database` field contains one of the four names of the original databases (`emodb_small`, `mscoco`, `ade20k` or `framesdb`.)
+The person field above `[1x2 struct]` shows that the image has 2 people and the details about each person is stored in this field.  
 For exapmple, the first person has the following information, 
 ```
 Annotations(1).person(1) =
@@ -27,7 +27,7 @@ Annotations(1).person(1) =
             estimated_mask: []
             estimated_eyes: [0.6049 0.4196]
        estimated_head_bbox: [263 111 437 227]
-            estimated_bbox: [294 167 580 384]
+     estimated_person_bbox: [294 167 580 384]
                 confidence: 0.7692
 ```
 Each bbox has the format `[x1 y1 x2 y2]` - the four co-ordinates of the bounding rectangle.   
