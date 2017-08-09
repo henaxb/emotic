@@ -1,4 +1,5 @@
-### EMOTIC dataset Annotations' structure description:
+### EMOTIC Dataset
+#### Structure description
 #### The entire annotations (or ground truth) is stored inside a matlab structure file _Annotations_combined.mat_
 
 Each structure entry has all the information (including the annotation) about a single person under consideration.   
