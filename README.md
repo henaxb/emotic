@@ -1,8 +1,7 @@
-### EMOTIC Dataset
-#### Structure description
-#### The entire annotations (or ground truth) is stored inside a matlab structure file _Annotations_combined.mat_
+### EMOTIC Dataset (Structure description)
+#### All annotations (or ground truth) are stored as fields in _Annotations_combined.mat_ (matlab structure file)
 
-Each structure entry has all the information (including the annotation) about a single person under consideration.   
+Each structure entry has all the information (including the annotation) about every person under consideration.   
 
     Annotations(1) = 
     
@@ -15,7 +14,7 @@ Each structure entry has all the information (including the annotation) about a 
                         person: [1x2 struct]   
 
 The person field above `[1x2 struct]` shows that the image has 2 persons and the details about each is stored in this field.  
-For the first person, 
+For exapmple, the first person has the following information, 
 ```
 Annotations(1).person(1) =
 
@@ -32,14 +31,14 @@ Annotations(1).person(1) =
                 confidence: 0.7692
 ```
 Each bbox has the format `[x1 y1 x2 y2]` - the four co-ordinates of the bounding rectangle.   
-`estimated_*` filed represents the bboxes that were obtained after running body ([link](https://arxiv.org/abs/1506.01497)) and face R-CNN ([link](https://arxiv.org/abs/1606.03473)) based detectors on each person.   
+`estimated_*` field represents the bboxes that were obtained after running body detector ([link](https://arxiv.org/abs/1506.01497)) and face R-CNN detector ([link](https://arxiv.org/abs/1606.03473)) on each person.   
 
 The confidence level with which the bboxes were estimated is given by   
 ```
 Annotations(1).person(1).confidence = 0.9
 ``` 
 
-The annotated categories (ground truth) of that person by a given worker is given by  
+The emotion categories (ground truth) annotated by a annotator (AMT Turker) for a person is given by  
 ```
 Annotations(1).person(1).annotations_categories = 
      
