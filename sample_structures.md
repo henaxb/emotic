@@ -11,7 +11,7 @@ Annotations_trainset(1).person(1)
             estimated_mask: []
             estimated_eyes: [0.6049 0.4196]
        estimated_head_bbox: [263 111 437 227]
-            estimated_bbox: [294 167 580 384]
+     estimated_person_bbox: [294 167 580 384]
                 confidence: 0.7692
            num_annotrs_cat: 1
            num_annotrs_con: 1
@@ -30,7 +30,7 @@ Annotations_trainset(1000).person(1)
             estimated_mask: []
             estimated_eyes: [0.5766 0.2065]
        estimated_head_bbox: [287 46 427 152]
-            estimated_bbox: [289 43 428 246]
+     estimated_person_bbox: [289 43 428 246]
                 confidence: 0.9968
            num_annotrs_cat: 1
            num_annotrs_con: 1
@@ -49,7 +49,7 @@ Annotations_trainset(12900).person(1)
             estimated_mask: []
             estimated_eyes: [0.5022 0.4091]
        estimated_head_bbox: [381 395 500 670]
-            estimated_bbox: [382 375 515 871]
+     estimated_person_bbox: [382 375 515 871]
                 confidence: 0.9965
            num_annotrs_cat: 1
            num_annotrs_con: 1
