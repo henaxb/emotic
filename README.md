@@ -29,8 +29,8 @@ estimated_body_bbox_confidence: 0.7692
            estimated_face_bbox: [263 111 437 227]
 estimated_body_face_confidence: 'NA'
 ```
-Each bbox has the format `[x1 y1 x2 y2]` - the four co-ordinates of the bounding rectangle.   
-`estimated_body_bbox` field represents the body bounding boxes that were obtained after running body detector ([link](https://arxiv.org/abs/1506.01497)) with the corresponding confidence level (if available) `estimated_body_bbox_confidence` 
+Each bbox has the format `[x1 y1 x2 y2]` - the four co-ordinates of the bounding rectangle.     
+`estimated_body_bbox` field represents the body bounding boxes that were obtained after running body detector ([link](https://arxiv.org/abs/1506.01497)) with the corresponding confidence level (if available) `estimated_body_bbox_confidence`    
 Similarly, `estimated_face_bbox` is the face bounding box estimated by the face (R-CNN) detector ([link](https://arxiv.org/abs/1606.03473)) with the corresponding confidence level `estimated_body_face_confidence` for each person.   
 
 The confidence level with which the bboxes were estimated is given by   
