@@ -18,20 +18,20 @@ For exapmple, the first person has the following information,
 ```
 Annotations(1).person(1) =
 
-                 body_bbox: [215 111 580 352]
-                 head_bbox: [228 118 318 231]
-    annotations_categories: [1x1 struct]
-    annotations_continuous: [1x1 struct]
-        annotations_gender: [1x1 struct]
-           annotations_age: [1x1 struct]
-            estimated_mask: []
-            estimated_eyes: [0.6049 0.4196]
-       estimated_head_bbox: [263 111 437 227]
-     estimated_person_bbox: [294 167 580 384]
-                confidence: 0.7692
+                     body_bbox: [215 111 580 352]
+                     head_bbox: [228 118 318 231]
+        annotations_categories: [1x1 struct]
+        annotations_continuous: [1x1 struct]
+            annotations_gender: [1x1 struct]
+               annotations_age: [1x1 struct]
+           estimated_body_bbox: [294 167 580 384]
+estimated_body_bbox_confidence: 0.7692
+           estimated_face_bbox: [263 111 437 227]
+estimated_body_face_confidence: 'NA'
 ```
 Each bbox has the format `[x1 y1 x2 y2]` - the four co-ordinates of the bounding rectangle.   
-`estimated_*` field represents the bboxes that were obtained after running body detector ([link](https://arxiv.org/abs/1506.01497)) and face R-CNN detector ([link](https://arxiv.org/abs/1606.03473)) on each person.   
+`estimated_body_bbox` field represents the body bounding boxes that were obtained after running body detector ([link](https://arxiv.org/abs/1506.01497)) with the corresponding confidence level (if available) `estimated_body_bbox_confidence` 
+Similarly, `estimated_face_bbox` is the face bounding box estimated by the face (R-CNN) detector ([link](https://arxiv.org/abs/1606.03473)) with the corresponding confidence level `estimated_body_face_confidence` for each person.   
 
 The confidence level with which the bboxes were estimated is given by   
 ```
