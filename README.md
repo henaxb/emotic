@@ -2,7 +2,8 @@
 #### All annotations (or ground truth) are stored as fields in _Annotations.mat_ (matlab structure file)
 Each structure entry has all the information (including the annotation) about every person under consideration.   
 
-    Annotations(1) = 
+    *Annotations = {train, val, test}
+    *Annotations(1) = 
     
                       filename: '007eear5kx5qhbzewz.jpg'   
                         folder: 'emodb_small/images'    
