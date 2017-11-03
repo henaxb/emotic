@@ -8,7 +8,7 @@ Our CVPR'17 paper: [Emotion Recognition in Context](http://openaccess.thecvf.com
 
 Our CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
 
-Cite us [bibtex]: 
+Cite us: 
 
 ```
 @InProceedings{Kosti_2017_CVPR,
