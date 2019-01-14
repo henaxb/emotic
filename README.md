@@ -4,9 +4,9 @@ Project website hosts all the information http://sunai.uoc.edu/emotic/index.html
 
 EMOTIC Dataset download link http://sunai.uoc.edu/emotic/download.html
 
-EMOTIC Baseline CNN model download link [EMOTIC CNN MODEL](https://www.dropbox.com/sh/mbcbih89nden05n/AABOvOu-P4yr2pQ5kZJJ_3Rla?dl=0)
+EMOTIC Baseline CNN model download link [EMOTIC CNN MODEL](https://www.dropbox.com/sh/mbcbih89nden05n/AABOvOu-P4yr2pQ5kZJJ_3Rla?dl=0), where you will also find a pseudo code for testing your images. 
 
-In [**emotic_cnn_model_structure.txt**](https://github.com/rkosti/emotic/blob/master/emotic_cnn_model_structure.txt), you can view our model structure. 
+For just viewing our model structure, you can refer [**emotic_cnn_model_structure.txt**](https://github.com/rkosti/emotic/blob/master/emotic_cnn_model_structure.txt)
 
 CVPR'17 paper: [Emotion Recognition in Context](http://openaccess.thecvf.com/content_cvpr_2017/html/Kosti_Emotion_Recognition_in_CVPR_2017_paper.html)
 
