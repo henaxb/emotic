@@ -6,6 +6,8 @@ EMOTIC Dataset download link http://sunai.uoc.edu/emotic/download.html
 
 EMOTIC Baseline CNN model download link [EMOTIC CNN MODEL](https://www.dropbox.com/sh/mbcbih89nden05n/AABOvOu-P4yr2pQ5kZJJ_3Rla?dl=0)
 
+In [**emotic_cnn_model_structure.txt**](), you can view our model structure. 
+
 CVPR'17 paper: [Emotion Recognition in Context](http://openaccess.thecvf.com/content_cvpr_2017/html/Kosti_Emotion_Recognition_in_CVPR_2017_paper.html)
 
 CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
