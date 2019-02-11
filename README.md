@@ -1,5 +1,7 @@
 ### EMOTIC Dataset
 
+<img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
+
 Project website hosts all the information http://sunai.uoc.edu/emotic/index.html 
 
 EMOTIC Dataset download link http://sunai.uoc.edu/emotic/download.html
