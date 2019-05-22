@@ -2,17 +2,20 @@
 
 <img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
-Project website hosts all the information http://sunai.uoc.edu/emotic/index.html 
++ EMOTIC Dataset download link [Dataset](https://drive.google.com/uc?id=1EsBVs6UKaFhI7pkNyGuUJ2oxK0jzKY5F&export=download)
 
-EMOTIC Dataset download link http://sunai.uoc.edu/emotic/download.html
++ EMOTIC Baseline CNN model download link [EMOTIC CNN MODEL](https://www.dropbox.com/sh/mbcbih89nden05n/AABOvOu-P4yr2pQ5kZJJ_3Rla?dl=0), where you will also find a pseudo code for testing your images. 
 
-EMOTIC Baseline CNN model download link [EMOTIC CNN MODEL](https://www.dropbox.com/sh/mbcbih89nden05n/AABOvOu-P4yr2pQ5kZJJ_3Rla?dl=0), where you will also find a pseudo code for testing your images. 
++ CVPR'17 based annotations [CVPR17_Annotations](https://www.dropbox.com/s/fm1iokznqig7apc/CVPR17_Annotations.mat?dl=0)
 
-For just viewing our model structure, you can refer [**emotic_cnn_model_structure.txt**](https://github.com/rkosti/emotic/blob/master/emotic_cnn_model_structure.txt)
++ Demo for computing the Average Precision (AP) [demoComputeAP](https://www.dropbox.com/s/7bff0ucw2monn38/demoComputeAP.zip?dl=0)
 
-CVPR'17 paper: [Emotion Recognition in Context](http://openaccess.thecvf.com/content_cvpr_2017/html/Kosti_Emotion_Recognition_in_CVPR_2017_paper.html)
++ For Model architecture, you can refer [**emotic_cnn_model_structure.txt**](https://github.com/rkosti/emotic/blob/master/emotic_cnn_model_structure.txt)
 
-CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
+#### Publications
++ CVPR'17 paper: [Emotion Recognition in Context](http://openaccess.thecvf.com/content_cvpr_2017/html/Kosti_Emotion_Recognition_in_CVPR_2017_paper.html)
+
++ CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
 
 Cite us: 
 
