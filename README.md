@@ -21,6 +21,9 @@
 
 Cite us: 
 ```
+Kosti, Ronak, Jose Alvarez, Adria Recasens, and Agata Lapedriza. "Context Based Emotion Recognition using EMOTIC Dataset." IEEE transactions on pattern analysis and machine intelligence (2019).
+```
+```
 @ARTICLE{Kosti_2019_PAMI,
 author={R. {Kosti} and J. {Alvarez} and A. {Recasens} and A. {Lapedriza}},
 journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
