@@ -18,3 +18,6 @@
 + CVPR'17 paper: [Emotion Recognition in Context](http://openaccess.thecvf.com/content_cvpr_2017/html/Kosti_Emotion_Recognition_in_CVPR_2017_paper.html)
 
 + CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
+
+### Related PhD manuscript. Much easier to read with broader set of experiments
++ Visual Scene Context in Emotion Perception (https://www.tdx.cat/handle/10803/667808)
