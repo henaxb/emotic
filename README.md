@@ -7,7 +7,7 @@
 
 + Baseline CNN model: [CVPR_17 MODEL](https://1drv.ms/u/s!AkYHbdGNmIVCgbYX2EL2jNIbpwcHug?e=T3jNGn), where you will also find a pseudo code for testing your images. 
 
-+ Annotations download link: [CVPR_17 Annotations](https://www.dropbox.com/s/fm1iokznqig7apc/CVPR17_Annotations.mat?dl=0)
++ Annotations download link: [CVPR_17 Annotations](https://1drv.ms/u/s!AkYHbdGNmIVCgbYYXYzR4WOtfUI9LA?e=v8OVlS)
 
 ### [PAMI-2019/latest Version]
 + Dataset download link: [PAMI_19 Dataset](https://1drv.ms/u/s!AkYHbdGNmIVCgbYQDYA2pHfy9xxhXw?e=uMCtpF)
