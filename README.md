@@ -1,8 +1,7 @@
 # Repository for EMOTIC (EMOTIon recognition in Context)
-
 <img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
-## [PAMI-2019/latest Version]
+## [PAMI-2019 (latest Version)]
 + Dataset download link: [PAMI_19 Dataset](https://1drv.ms/u/s!AkYHbdGNmIVCgbYQDYA2pHfy9xxhXw?e=uMCtpF)
 
 + Baseline CNN model : [PAMI_19 MODEL](https://1drv.ms/u/s!AkYHbdGNmIVCgbYSIcSFYJgcApIRKw?e=slJTZp), where you will also find a pseudo code for testing your images. 
@@ -28,5 +27,4 @@
 
 + CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
 
-## Related PhD manuscript. Much easier to read with broader set of experiments
-+ Visual Scene Context in Emotion Perception (https://www.tdx.cat/handle/10803/667808)
++ Visual Scene Context in Emotion Perception (https://www.tdx.cat/handle/10803/667808) _[PhD manuscript related to the above domain, much easier to read with broader set of experiments]_
