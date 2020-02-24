@@ -2,19 +2,19 @@
 
 <img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
-## [CVPR-2017 Version]
-+ Dataset download link: [CVPR_17 Dataset](https://1drv.ms/u/s!AkYHbdGNmIVCgbYUedjPzUcYlpFzBQ?e=qZSaz4)
-
-+ Baseline CNN model: [CVPR_17 MODEL](https://1drv.ms/u/s!AkYHbdGNmIVCgbYX2EL2jNIbpwcHug?e=T3jNGn), where you will also find a pseudo code for testing your images. 
-
-+ Annotations download link: [CVPR_17 Annotations](https://1drv.ms/u/s!AkYHbdGNmIVCgbYYXYzR4WOtfUI9LA?e=v8OVlS)
-
 ## [PAMI-2019/latest Version]
 + Dataset download link: [PAMI_19 Dataset](https://1drv.ms/u/s!AkYHbdGNmIVCgbYQDYA2pHfy9xxhXw?e=uMCtpF)
 
 + Baseline CNN model : [PAMI_19 MODEL](https://1drv.ms/u/s!AkYHbdGNmIVCgbYSIcSFYJgcApIRKw?e=slJTZp), where you will also find a pseudo code for testing your images. 
 
 + Annotations download link: [PAMI_19 Annotations](https://1drv.ms/u/s!AkYHbdGNmIVCgbYJxp1EtUplH6BhSw?e=VUP26u)
+
+## [CVPR-2017 Version]
++ Dataset download link: [CVPR_17 Dataset](https://1drv.ms/u/s!AkYHbdGNmIVCgbYUedjPzUcYlpFzBQ?e=qZSaz4)
+
++ Baseline CNN model: [CVPR_17 MODEL](https://1drv.ms/u/s!AkYHbdGNmIVCgbYX2EL2jNIbpwcHug?e=T3jNGn), where you will also find a pseudo code for testing your images. 
+
++ Annotations download link: [CVPR_17 Annotations](https://1drv.ms/u/s!AkYHbdGNmIVCgbYYXYzR4WOtfUI9LA?e=v8OVlS)
 
 ## Other related files 
 + Demo for computing the Average Precision (AP) [demoComputeAP](https://1drv.ms/u/s!AkYHbdGNmIVCgbYZB_dY3wuWJou_5A?e=jcsZUj)
