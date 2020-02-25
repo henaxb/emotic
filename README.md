@@ -1,4 +1,6 @@
 # Repository for EMOTIC (EMOTIon recognition in Context)
+(Official Website: [EMOTIC](http://sunai.uoc.edu/emotic/index.html))
+
 <img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
 ## [PAMI-2019 (latest Version)]
