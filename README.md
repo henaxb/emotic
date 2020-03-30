@@ -20,6 +20,8 @@
 ## Other related files 
 + Demo for computing the Average Precision (AP) [demoComputeAP](https://1drv.ms/u/s!AkYHbdGNmIVCgbYZB_dY3wuWJou_5A?e=jcsZUj)
 
++ Single Image Inference for PAMI version (input image and the corresponding bounding box info required): [Single Image Inference](https://github.com/rkosti/emotic/blob/master/single_image_inference.lua)
+
 + For Model architecture (same for cvpr and pami publications), you can refer [**emotic_cnn_model_structure.txt**](https://1drv.ms/t/s!AkYHbdGNmIVCgbYV2ymTghehKLdxBg?e=PMyGgc)
 
 ## Cite us using our following publications
