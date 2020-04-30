@@ -3,6 +3,9 @@
 
 <img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
+## Watch a ~3 minute video (just me speaking, no presentations or anything) summarizing my thesis on this topic.
++ YouTube Link: [Read Thesis  in 4-Minutes](https://www.youtube.com/watch?v=D678cyrhTRQ)
+
 ## [PAMI-2019 (latest Version)]
 + Dataset download link: [PAMI_19 Dataset](https://drive.google.com/open?id=0B7sjGeF4f3FYQUVlZ3ZOai1ieEU)
 
