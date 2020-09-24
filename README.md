@@ -35,3 +35,7 @@
 + CVPRW'17 paper: [EMOTIC: Emotions in Context Dataset](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/html/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.html)
 
 + PhD Manuscript: [Visual Scene Context in Emotion Perception](https://www.tdx.cat/handle/10803/667808) _[much easier to read with broader set of experiments]_
+
+## Slides/Overview of the Defense Talk
+
+![](slides.gif)
