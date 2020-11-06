@@ -27,6 +27,8 @@
 
 + For Model architecture (same for cvpr and pami publications), you can refer [**emotic_cnn_model_structure.txt**](https://1drv.ms/t/s!AkYHbdGNmIVCgbYV2ymTghehKLdxBg?e=PMyGgc)
 
++ PyTorch implementation of EMOTIC [EMOTIC PyTorch](https://github.com/Tandon-A/emotic). Thanks to [Abhishek Tandon](https://github.com/Tandon-A)
+
 ## Cite us using our following publications
 + PAMI'19 paper: [Context Based Emotion Recognition using EMOTIC Dataset](https://ieeexplore.ieee.org/document/8713881)
 
