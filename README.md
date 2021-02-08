@@ -1,7 +1,7 @@
 # Repository for EMOTIC (EMOTIon recognition in Context)
 (Official Website: [EMOTIC](http://sunai.uoc.edu/emotic/index.html))
 
-<img src="EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
+<img src="src/EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
 ## Watch a ~3 minute video (just me speaking, no presentations or anything) summarizing my thesis on this topic.
 + YouTube Link: [Read Thesis  in 4-Minutes](https://www.youtube.com/watch?v=D678cyrhTRQ)
@@ -23,7 +23,7 @@
 ## Other related files 
 + Demo for computing the Average Precision (AP) [demoComputeAP](https://1drv.ms/u/s!AkYHbdGNmIVCgbYZB_dY3wuWJou_5A?e=jcsZUj)
 
-+ Single Image Inference for PAMI version (input image and the corresponding bounding box info required): [Single Image Inference](https://github.com/rkosti/emotic/blob/master/single_image_inference.lua)
++ Single Image Inference for PAMI version (input image and the corresponding bounding box info required): [Single Image Inference](https://github.com/rkosti/emotic/blob/master/src/single_image_inference.lua)
 
 + For Model architecture (same for cvpr and pami publications), you can refer [**emotic_cnn_model_structure.txt**](https://1drv.ms/t/s!AkYHbdGNmIVCgbYV2ymTghehKLdxBg?e=PMyGgc)
 
@@ -40,4 +40,4 @@
 
 ## Slides/Overview of the Defense Talk
 
-![](slides.gif)
+![](src/slides.gif)
